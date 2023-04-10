@@ -1,6 +1,5 @@
-# Puissance3
-C
-rée l'IA du jeu puissance 3 ( 5 col x 4 lignes)
+# Puissance3 - IA
+IA du jeu puissance 3 ( 5 col x 4 lignes) + enregistrement dans une BDD
 
 requiert le module mariadb
 
